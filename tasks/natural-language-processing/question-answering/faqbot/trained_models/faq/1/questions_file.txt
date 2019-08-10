@@ -1,0 +1,1 @@
+[{"question": "hi", "aliases": ["hey", "hi", "hello"], "answers": ["Hello,what can i do for you", "Hey whats up"], "_id": "1"}, {"question": "bye", "aliases": ["bye", "baaye", "goodbye"], "answers": ["it was nice talking to you", "see you soon"], "_id": "2"}]
