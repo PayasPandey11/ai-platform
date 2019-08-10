@@ -1,0 +1,10 @@
+name: deep gesture
+channels:
+  - defaults
+dependencies:
+  - pip:
+    - mlflow
+    - numpy
+    - opencv
+    - imutils
+    - pyoperators
